@@ -4,7 +4,7 @@ I find myself in search of my next full-time opportunity. I love finding organiz
 
 ## Who am I?
 
-Hiya! I'm Catija - I love enabling communities and creating or improving products - if I can do both at once, even better!
+Hiya! I'm Catija - I love enabling communities and improving products - if I can do both at once, even better!
 
 I believe that no one is better placed to understand where a product is struggling than the people who use it and that communities who feel heard deepen their connection with the products they use. 
 
@@ -17,7 +17,6 @@ When I work as a liaison between communities and product owners I:
 - Documenting or updating documentation once the final product ships and ensure the community is aware of the changes
 - Ensure outstanding issues or bugs are triaged and addressed shortly after being reported.
 
-- 
 - community
 - product
 - design
