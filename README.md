@@ -6,7 +6,7 @@ I find myself in search of my next full-time opportunity. I love finding organiz
 
 Hiya! I'm Catija - I love enabling communities and improving products - if I can do both at once, even better!
 
-I believe that no one is better placed to understand where a product is struggling than the people who use it and that communities who feel heard deepen their connection with the products they use. 
+I believe that no one is better placed to understand where a product can be improved than the people who use it. When community members feel heard, they deepen their connection with the products they use. I'm looking for a new opportunity to work as part of a cross-functional team whose purpose is to work closely with an engaged and thoughtful community with the goal of improving a product to better meet their needs.
 
 When I work as a liaison between communities and product owners I: 
 
@@ -17,9 +17,9 @@ When I work as a liaison between communities and product owners I:
 - Documenting or updating documentation once the final product ships and ensure the community is aware of the changes
 - Ensure outstanding issues or bugs are triaged and addressed shortly after being reported.
 
-- community
-- product
-- design
+Some keywords that describe me:
+
+- community advocate
 - communicator
 - helper
 - enabler
@@ -27,9 +27,7 @@ When I work as a liaison between communities and product owners I:
 - resourceful
 - curious
 - transparent
-- 
 
-I'm a helper.
 
 ## Qualities of places where I'll thrive
 
