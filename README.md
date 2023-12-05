@@ -6,9 +6,9 @@ I find myself in search of my next full-time opportunity. I love finding organiz
 
 Hiya! I'm Catija - I love enabling communities and improving products - if I can do both at once, even better!
 
-I believe that no one is better placed to understand where a product can be improved than the people who use it. When community members feel heard, they deepen their connection with the products they use because they feel a sense of ownership. I'm looking for an opportunity to work as part of a cross-functional team whose purpose is to work closely with an engaged and thoughtful community with the goal of improving a product to better meet their needs.
+I believe that no one is better placed to understand where a product can be improved than the people who use it. When community members feel heard, they deepen their connection with the products they use because they feel a sense of ownership. I'm looking for an opportunity to join a cross-functional team whose purpose is to work closely with an engaged and thoughtful community with the goal of improving a product to better meet their needs.
 
-There are a lot of titles that cover this role depending on the organization but titles aren't too important provided the role includes both direct community engagement. Instead of relying on titles, let's talk about how I empower community members to get the most out of the product and tools they're using.
+There are a lot of titles that cover this position depending on the organization but titles aren't too important provided the role includes direct community contact and the ability to actually improve or optimize the product, system, or process. Instead of relying on titles, let's talk about how I empower community members to get the most out of the product and tools they're using.
 
 When I work as a liaison between communities and product owners I: 
 
